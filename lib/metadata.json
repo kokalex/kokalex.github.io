@@ -1,0 +1,490 @@
+{
+  "vaultName": "雙軸小型模型拍攝台",
+  "lastExport": 1741589063477,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "Library/3dprintmodel1.jpg",
+    "Library/3dprintmodel2.jpg",
+    "Library/400project1.jpg",
+    "Library/arcode.jpg",
+    "Library/BT_ctrl_a02.jpg",
+    "Library/btserial16.jpg",
+    "Library/fdmprinter.jpg",
+    "Library/halo_28BYJ48.png",
+    "Library/halo_八角.png",
+    "Library/halo_微型控制器.png",
+    "Library/halo_藍牙手機遙控拍攝.png",
+    "Library/halo_藤壺.png",
+    "Library/halo_AR.jpg",
+    "Library/handscanner_02.jpg",
+    "Library/IMG_20241213_092810.jpg",
+    "Library/kiri_02.jpg",
+    "Library/mcu.jpg",
+    "Library/model-viewer.png",
+    "Library/openscan5.jpg",
+    "Library/panda.jpg",
+    "Library/pandaB.jpg",
+    "Library/photo_light.jpg",
+    "Library/photo_tank.jpg",
+    "Library/photo_wb.jpg",
+    "Library/Project Flow.png",
+    "Library/project1.jpg",
+    "Library/project2.jpg",
+    "Library/project3.jpg",
+    "Library/prototype1.jpg",
+    "Library/prototype4.jpg",
+    "Library/rotationstop.svg",
+    "Library/taichi.jpg",
+    "Library/test_model.jpg",
+    "Library/uln.jpg",
+    "Library/zakuarmy.jpg",
+    "02 攝影測量法及轉盤.md",
+    "03 拍攝台的製作.md",
+    "04 雙軸活動範圍的考慮.md",
+    "05 操作流程：拍攝+上載.md",
+    "06 ------- 應用方案 -----.md",
+    "07 應用方案_3D打印.md",
+    "08 應用方案_筆記軟件及演示.md",
+    "09 應用方案_動畫 Mixamo.md",
+    "10 應用方案_Halo AR.md",
+    "11 作品總結.md",
+    "12 --------- 參考 -----.md",
+    "13_參考_程式碼.md",
+    "14_參考_大型模型.md",
+    "15 參考_網上參考資料.md",
+    "16 參考_其它模型.md",
+    "17 參考_其它影片.md",
+    "index.md",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg"
+  ],
+  "mainDependencies": [
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg"
+  ],
+  "fileInfo": {
+    "Library/3dprintmodel1.jpg": {
+      "modifiedTime": 1741589063477,
+      "sourceSize": 1139377,
+      "exportedPath": "Library/3dprintmodel1.jpg",
+      "dependencies": []
+    },
+    "Library/3dprintmodel2.jpg": {
+      "modifiedTime": 1741589063477,
+      "sourceSize": 2882847,
+      "exportedPath": "Library/3dprintmodel2.jpg",
+      "dependencies": []
+    },
+    "Library/400project1.jpg": {
+      "modifiedTime": 1741589063477,
+      "sourceSize": 84825,
+      "exportedPath": "Library/400project1.jpg",
+      "dependencies": []
+    },
+    "Library/arcode.jpg": {
+      "modifiedTime": 1741589063477,
+      "sourceSize": 368440,
+      "exportedPath": "Library/arcode.jpg",
+      "dependencies": []
+    },
+    "Library/BT_ctrl_a02.jpg": {
+      "modifiedTime": 1741589063477,
+      "sourceSize": 680065,
+      "exportedPath": "Library/BT_ctrl_a02.jpg",
+      "dependencies": []
+    },
+    "Library/btserial16.jpg": {
+      "modifiedTime": 1741589063477,
+      "sourceSize": 208959,
+      "exportedPath": "Library/btserial16.jpg",
+      "dependencies": []
+    },
+    "Library/fdmprinter.jpg": {
+      "modifiedTime": 1741589063477,
+      "sourceSize": 3658036,
+      "exportedPath": "Library/fdmprinter.jpg",
+      "dependencies": []
+    },
+    "Library/halo_28BYJ48.png": {
+      "modifiedTime": 1741589063477,
+      "sourceSize": 75796,
+      "exportedPath": "Library/halo_28BYJ48.png",
+      "dependencies": []
+    },
+    "Library/halo_八角.png": {
+      "modifiedTime": 1741589063477,
+      "sourceSize": 144741,
+      "exportedPath": "Library/halo_八角.png",
+      "dependencies": []
+    },
+    "Library/halo_微型控制器.png": {
+      "modifiedTime": 1741589063477,
+      "sourceSize": 115329,
+      "exportedPath": "Library/halo_微型控制器.png",
+      "dependencies": []
+    },
+    "Library/halo_藍牙手機遙控拍攝.png": {
+      "modifiedTime": 1741589063477,
+      "sourceSize": 93756,
+      "exportedPath": "Library/halo_藍牙手機遙控拍攝.png",
+      "dependencies": []
+    },
+    "Library/halo_藤壺.png": {
+      "modifiedTime": 1741589063477,
+      "sourceSize": 101303,
+      "exportedPath": "Library/halo_藤壺.png",
+      "dependencies": []
+    },
+    "Library/halo_AR.jpg": {
+      "modifiedTime": 1741589063477,
+      "sourceSize": 31377,
+      "exportedPath": "Library/halo_AR.jpg",
+      "dependencies": []
+    },
+    "Library/handscanner_02.jpg": {
+      "modifiedTime": 1741589063477,
+      "sourceSize": 123524,
+      "exportedPath": "Library/handscanner_02.jpg",
+      "dependencies": []
+    },
+    "Library/IMG_20241213_092810.jpg": {
+      "modifiedTime": 1741589063477,
+      "sourceSize": 3000448,
+      "exportedPath": "Library/IMG_20241213_092810.jpg",
+      "dependencies": []
+    },
+    "Library/kiri_02.jpg": {
+      "modifiedTime": 1741589063477,
+      "sourceSize": 202812,
+      "exportedPath": "Library/kiri_02.jpg",
+      "dependencies": []
+    },
+    "Library/mcu.jpg": {
+      "modifiedTime": 1741589063477,
+      "sourceSize": 221830,
+      "exportedPath": "Library/mcu.jpg",
+      "dependencies": []
+    },
+    "Library/model-viewer.png": {
+      "modifiedTime": 1741589063477,
+      "sourceSize": 489768,
+      "exportedPath": "Library/model-viewer.png",
+      "dependencies": []
+    },
+    "Library/openscan5.jpg": {
+      "modifiedTime": 1741589063477,
+      "sourceSize": 188521,
+      "exportedPath": "Library/openscan5.jpg",
+      "dependencies": []
+    },
+    "Library/panda.jpg": {
+      "modifiedTime": 1741589063477,
+      "sourceSize": 693156,
+      "exportedPath": "Library/panda.jpg",
+      "dependencies": []
+    },
+    "Library/pandaB.jpg": {
+      "modifiedTime": 1741589063477,
+      "sourceSize": 714206,
+      "exportedPath": "Library/pandaB.jpg",
+      "dependencies": []
+    },
+    "Library/photo_light.jpg": {
+      "modifiedTime": 1741589063477,
+      "sourceSize": 2247648,
+      "exportedPath": "Library/photo_light.jpg",
+      "dependencies": []
+    },
+    "Library/photo_tank.jpg": {
+      "modifiedTime": 1741589063477,
+      "sourceSize": 1850479,
+      "exportedPath": "Library/photo_tank.jpg",
+      "dependencies": []
+    },
+    "Library/photo_wb.jpg": {
+      "modifiedTime": 1741589063477,
+      "sourceSize": 3323022,
+      "exportedPath": "Library/photo_wb.jpg",
+      "dependencies": []
+    },
+    "Library/Project Flow.png": {
+      "modifiedTime": 1741589063477,
+      "sourceSize": 54187,
+      "exportedPath": "Library/Project Flow.png",
+      "dependencies": []
+    },
+    "Library/project1.jpg": {
+      "modifiedTime": 1741589063477,
+      "sourceSize": 944259,
+      "exportedPath": "Library/project1.jpg",
+      "dependencies": []
+    },
+    "Library/project2.jpg": {
+      "modifiedTime": 1741589063477,
+      "sourceSize": 1231765,
+      "exportedPath": "Library/project2.jpg",
+      "dependencies": []
+    },
+    "Library/project3.jpg": {
+      "modifiedTime": 1741589063477,
+      "sourceSize": 2131443,
+      "exportedPath": "Library/project3.jpg",
+      "dependencies": []
+    },
+    "Library/prototype1.jpg": {
+      "modifiedTime": 1741589063477,
+      "sourceSize": 337276,
+      "exportedPath": "Library/prototype1.jpg",
+      "dependencies": []
+    },
+    "Library/prototype4.jpg": {
+      "modifiedTime": 1741589063477,
+      "sourceSize": 328388,
+      "exportedPath": "Library/prototype4.jpg",
+      "dependencies": []
+    },
+    "Library/rotationstop.svg": {
+      "modifiedTime": 1741589063477,
+      "sourceSize": 10938,
+      "exportedPath": "Library/rotationstop.svg",
+      "dependencies": []
+    },
+    "Library/taichi.jpg": {
+      "modifiedTime": 1741589063477,
+      "sourceSize": 68826,
+      "exportedPath": "Library/taichi.jpg",
+      "dependencies": []
+    },
+    "Library/test_model.jpg": {
+      "modifiedTime": 1741589063477,
+      "sourceSize": 341022,
+      "exportedPath": "Library/test_model.jpg",
+      "dependencies": []
+    },
+    "Library/uln.jpg": {
+      "modifiedTime": 1741589063477,
+      "sourceSize": 438630,
+      "exportedPath": "Library/uln.jpg",
+      "dependencies": []
+    },
+    "Library/zakuarmy.jpg": {
+      "modifiedTime": 1741589063477,
+      "sourceSize": 62323,
+      "exportedPath": "Library/zakuarmy.jpg",
+      "dependencies": []
+    },
+    "02 攝影測量法及轉盤.md": {
+      "modifiedTime": 1741589063477,
+      "sourceSize": 1639,
+      "exportedPath": "02 攝影測量法及轉盤.html",
+      "dependencies": []
+    },
+    "03 拍攝台的製作.md": {
+      "modifiedTime": 1741589063477,
+      "sourceSize": 3514,
+      "exportedPath": "03 拍攝台的製作.html",
+      "dependencies": []
+    },
+    "04 雙軸活動範圍的考慮.md": {
+      "modifiedTime": 1741589063477,
+      "sourceSize": 888,
+      "exportedPath": "04 雙軸活動範圍的考慮.html",
+      "dependencies": []
+    },
+    "05 操作流程：拍攝+上載.md": {
+      "modifiedTime": 1741589063477,
+      "sourceSize": 697,
+      "exportedPath": "05 操作流程：拍攝+上載.html",
+      "dependencies": []
+    },
+    "06 ------- 應用方案 -----.md": {
+      "modifiedTime": 1741589063477,
+      "sourceSize": 0,
+      "exportedPath": "06 ------- 應用方案 -----.html",
+      "dependencies": []
+    },
+    "07 應用方案_3D打印.md": {
+      "modifiedTime": 1741589063477,
+      "sourceSize": 265,
+      "exportedPath": "07 應用方案_3D打印.html",
+      "dependencies": []
+    },
+    "08 應用方案_筆記軟件及演示.md": {
+      "modifiedTime": 1741589063477,
+      "sourceSize": 3603,
+      "exportedPath": "08 應用方案_筆記軟件及演示.html",
+      "dependencies": []
+    },
+    "09 應用方案_動畫 Mixamo.md": {
+      "modifiedTime": 1741589063477,
+      "sourceSize": 821,
+      "exportedPath": "09 應用方案_動畫 Mixamo.html",
+      "dependencies": []
+    },
+    "10 應用方案_Halo AR.md": {
+      "modifiedTime": 1741589063477,
+      "sourceSize": 497,
+      "exportedPath": "10 應用方案_Halo AR.html",
+      "dependencies": []
+    },
+    "11 作品總結.md": {
+      "modifiedTime": 1741589063477,
+      "sourceSize": 343,
+      "exportedPath": "11 作品總結.html",
+      "dependencies": []
+    },
+    "12 --------- 參考 -----.md": {
+      "modifiedTime": 1741589063477,
+      "sourceSize": 0,
+      "exportedPath": "12 --------- 參考 -----.html",
+      "dependencies": []
+    },
+    "13_參考_程式碼.md": {
+      "modifiedTime": 1741589063477,
+      "sourceSize": 10248,
+      "exportedPath": "13_參考_程式碼.html",
+      "dependencies": []
+    },
+    "14_參考_大型模型.md": {
+      "modifiedTime": 1741589063477,
+      "sourceSize": 647,
+      "exportedPath": "14_參考_大型模型.html",
+      "dependencies": []
+    },
+    "15 參考_網上參考資料.md": {
+      "modifiedTime": 1741589063477,
+      "sourceSize": 1324,
+      "exportedPath": "15 參考_網上參考資料.html",
+      "dependencies": []
+    },
+    "16 參考_其它模型.md": {
+      "modifiedTime": 1741589063477,
+      "sourceSize": 5104,
+      "exportedPath": "16 參考_其它模型.html",
+      "dependencies": []
+    },
+    "17 參考_其它影片.md": {
+      "modifiedTime": 1741589063477,
+      "sourceSize": 587,
+      "exportedPath": "17 參考_其它影片.html",
+      "dependencies": []
+    },
+    "index.md": {
+      "modifiedTime": 1741589063477,
+      "sourceSize": 1676,
+      "exportedPath": "index.html",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1741589063477,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1741589063477,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1741589063477,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1741589063477,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1741589063477,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1741589063477,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1741589063477,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1741589063477,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1741589063477,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1741589063477,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1741589063477,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1741589063477,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1741589063477,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/6155340132a851f6089e.svg": {
+      "modifiedTime": 1741589063477,
+      "sourceSize": 315,
+      "exportedPath": "lib/media/6155340132a851f6089e.svg",
+      "dependencies": []
+    }
+  }
+}
